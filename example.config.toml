@@ -1,0 +1,3 @@
+applicationID = "bot application id"
+botToken = "your bot token"
+guildID = "guild to delete commands from"
