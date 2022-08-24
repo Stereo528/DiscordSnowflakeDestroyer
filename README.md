@@ -25,3 +25,7 @@ OR
 
 - typing `get`, and prompting for guild/global, will then proceed automatically into the `delete` prompt, and continues to run that until you type done
 in the guild/global prompt
+
+
+## Credits
+Thanks to [@asoji](https://github.com/asoji) for the initial requests code to the Discord API!
